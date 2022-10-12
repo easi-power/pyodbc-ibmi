@@ -1,0 +1,5 @@
+hostname="10.0.0.28"
+database="O205CCEW"
+port="3306"
+username="MAQU"
+password="Ymu9qMxH"
